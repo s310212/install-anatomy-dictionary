@@ -1,4 +1,4 @@
-module github.com/KMU-Dev/Install-Anatomy-Dictionary
+module github.com/KMU-Dev/install-anatomy-dictionary
 
 go 1.15
 

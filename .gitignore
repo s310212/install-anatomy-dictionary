@@ -19,3 +19,5 @@ vendor/
 # GoLand
 .idea/
 
+# bindata generated file
+bindata.go
