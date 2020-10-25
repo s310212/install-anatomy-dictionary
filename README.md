@@ -10,3 +10,17 @@ Go to the [release page](https://github.com/KMU-Dev/install-anatomy-dictionary/r
 
 This app will import the first online anatomy test dictionary file to Google Chrome's built in type checking system.
 Enjoy it. :wink::wink: 
+
+## Contributing
+
+1. Clone the project using
+
+    ```git clone https://github.com/KMU-Dev/install-anatomy-dictionary.git```
+
+2. Run the following command to generate bindata.go file
+
+    ```go generate```
+
+3. Build the app
+
+    ```go build```
