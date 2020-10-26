@@ -1,6 +1,6 @@
 # Install Anatomy Dictionary
 
-![GitHub Releases](https://img.shields.io/github/downloads/KMU-Dev/install-anatomy-dictionary/latest/total?color=brightgreen)
+![GitHub All Releases](https://img.shields.io/github/downloads/KMU-Dev/install-anatomy-dictionary/total?color=brightgreen)
 
 Install anatomy dictionary to google chrome custom type checking.
 
