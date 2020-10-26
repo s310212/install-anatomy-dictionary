@@ -7,7 +7,7 @@ Install anatomy dictionary to google chrome custom type checking.
 ## Notice :heavy_exclamation_mark::heavy_exclamation_mark:
 
 There are some bugs when you install the program at the first time.
-Please make sure you turn off Chrome before installing and try until the console show "Successfully install anatomy dictionary!!".
+Please make sure you turn off Chrome before installing and try until the console shows "Successfully install anatomy dictionary!!".
 
 ## Install
 
