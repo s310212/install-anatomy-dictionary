@@ -1,6 +1,9 @@
 # Install Anatomy Dictionary
 
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/KMU-Dev/install-anatomy-dictionary)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/KMU-Dev/install-anatomy-dictionary)
 ![GitHub All Releases](https://img.shields.io/github/downloads/KMU-Dev/install-anatomy-dictionary/total?color=brightgreen)
+![GitHub](https://img.shields.io/github/license/KMU-Dev/install-anatomy-dictionary)
 
 Install anatomy dictionary to google chrome custom type checking.
 
