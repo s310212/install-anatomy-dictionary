@@ -3,7 +3,8 @@ aorta
 pulmonary
 trunk
 a.
-sinu-atrial
+sinu
+atrial
 nodal
 right
 coronary
@@ -83,11 +84,11 @@ thoracodorsal
 musculocutaneous
 posterior
 interosseous
-br.
+br
 of
 ulnar
 transverse
-lig.
+lig
 conoid
 trapezoid
 coracoacromial
@@ -110,7 +111,7 @@ deltoid
 coracobrachialis
 brachialis
 triceps
-brachii,
+brachii
 head
 medial
 tendon
@@ -145,7 +146,8 @@ celiac
 common
 hepatic
 left
-gastro-omental
+gastro
+omental
 mesenteric
 splenic
 gastric
