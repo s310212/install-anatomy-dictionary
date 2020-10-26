@@ -23,7 +23,7 @@ func stopChrome() {
 		if !ok {
 			showErrorAndExit("%s", errors.New("Install program can not run when Chrome is running."))
 		} else {
-			_, err := exec.Command("taskkill", "/F", "/T", "/IM", "chrome.exe").Output()
+			_, err := exec.Command("taskkill", "/F", "/IM", "chrome.exe").Output()
 			if err != nil {
 				showErrorAndExit("%s", errors.New("Cannot stop Chrome. Please contact the developer."))
 			}
