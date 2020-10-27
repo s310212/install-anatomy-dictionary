@@ -21,3 +21,6 @@ vendor/
 
 # bindata generated file
 bindata.go
+
+# syso file
+rsrc.syso

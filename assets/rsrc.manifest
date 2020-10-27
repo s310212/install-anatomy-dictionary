@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity
+            version="1.2.0.0"
+            processorArchitecture="x86"
+            name="KMU-Dev.install-anatomy-dictionary.windows"
+            type="win32"
+    />
+    <description>Install Anatomy Dictionary</description>
+</assembly>
