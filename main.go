@@ -1,7 +1,7 @@
 package main
 
 //go:generate go-bindata assets/
-//go:generate rsrc -manifest assets/rsrc.manifest -o rsrc.syso
+//go:generate rsrc -manifest assets/rsrc.manifest -ico assets/app_icon.ico -o rsrc.syso
 
 import (
 	"errors"
