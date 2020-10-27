@@ -9,8 +9,7 @@ Install anatomy dictionary to google chrome custom type checking.
 
 ## Notice :heavy_exclamation_mark::heavy_exclamation_mark:
 
-Some users report that install process may fail at the first time.
-Please make sure you turn off Chrome before installing and try until the console shows "Successfully install anatomy dictionary!!".
+**When running this app in schools computer, make sure you have uninstalled F-secure or it will block downloading.**
 
 ## Install
 
