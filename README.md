@@ -9,7 +9,7 @@ Install anatomy dictionary to google chrome custom type checking.
 
 ## Notice :heavy_exclamation_mark::heavy_exclamation_mark:
 
-**When running this app in schools computer, make sure you have uninstalled F-secure or it will block downloading.**
+**When running this app in computer in the classroom, make sure you have uninstalled F-secure or it will block downloading.**
 
 ## Install
 
