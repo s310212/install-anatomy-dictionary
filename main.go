@@ -1,6 +1,7 @@
 package main
 
 //go:generate go-bindata assets/
+//go:generate rsrc -manifest assets/rsrc.manifest -o rsrc.syso
 
 import (
 	"errors"
